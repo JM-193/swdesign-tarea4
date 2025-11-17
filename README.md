@@ -1,2 +1,10 @@
 # swdesign-tarea4
-Tarea 4,  curso de Diseño de Software
+
+[Enlace al repo](https://github.com/JM-193/swdesign-tarea4)
+
+## Información Personal
+
+* José Manuel Mora Z - C35280
+* Diseño de Software - CI-0136
+* Escuela de las Ciencias de la Computación e Informática (ECCI)
+* Universidad de Costa Rica (UCR)
